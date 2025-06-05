@@ -1,14 +1,8 @@
-# Blackout
-Project 1 (29/5/2025)
+# blackoutbutoldandroid
 
+# Requirement | สิ่งที่ต้องใช้
+- usb ชารต์แบต
+- python
+- มือถือ android (any)
 
-# Purpose || สาเหตุ
-ผมได้เล็งเห็นถึงปัญหาที่การไฟดับจะทำให้เครื่องใช้ไฟฟ้าในที่นี้คือคอมพิวเตอร์ซึ่งอาจทำให้เกิดข้อมูลสูญหายได้
-
-# Q&A
-Q ทำไมไม่ใช้เครื่องสำรองไฟ?
-
-A เมื่อถึงในช่วงเวลาหนึ่งคอมพิวเตอร์จะดับไปเองก็จะช่วยอะไรได้ไม่เยอะหากไม่อยู่บ้านหลายวัน
-
-# หลักการทำงาน (เพิ่มเติมที่ [stru](https://github.com/cordhxe/Blackout/blob/main/strc))
-![image](https://github.com/user-attachments/assets/34f93c4b-287b-4774-9731-7d451abc01d1)
+# [วิธีใช้](https://youtu.be/IT-FDBt-_Eg)
